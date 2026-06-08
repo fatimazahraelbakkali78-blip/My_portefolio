@@ -610,18 +610,7 @@ echo "</div>";
 echo "</div>";
 
 
-// EFMs
-echo "<div class='card'>";
-echo "<h2><i class='fas fa-file-signature'></i> EFM Exemples  </h2>";
-echo "<div style='display:grid; grid-template-columns: 1fr 1fr; gap:10px;'>";
-echo "<a href='/M107_EFM_DEV_V1.docx' class='btn btn-secondary'>EFM1 </a>";
-echo "<a href='/gestionstagiaire_v1.sql' class='btn btn-secondary'>DB-EFM1 </a>";
-echo "<a href='/M107_EFM_DEV_V2.docx' class='btn btn-secondary'>EFM2 </a>";
-echo "<a href='/gestionproduit_v2.sql' class='btn btn-secondary'>DB-EFM2 </a>";
-echo "<a href='/v1.rar' class='btn'>EFM-V1 </a>";
-echo "<a href='/v2.rar' class='btn'>EFM-V2 </a>";
-echo "</div>";
-echo "</div>";
+
 ?>
 
     </div>
