@@ -74,7 +74,7 @@
             margin: 0;
             font-weight: 700;
             letter-spacing: -0.5px;
-            background: linear-gradient(to right, #ffffff, #ffe396, var(--primary));
+            background: linear-gradient(to right, #ffffff, #d0a42b, var(--primary));
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             text-shadow: 0 4px 20px rgba(0,0,0,0.4);
