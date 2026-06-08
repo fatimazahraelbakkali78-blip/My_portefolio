@@ -11,7 +11,7 @@
     <style>
          :root {
             --primary: #c3931b;
-            --secondary: #c3931b;
+            --secondary: #7c5c0d;
             --bg-dark: #0b0f19;
             --card-bg: #141b2d;
             --text-light: #f8fafc;
