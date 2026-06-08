@@ -315,7 +315,7 @@
 <section class="hero">
     <div class="overlay"></div>
     <div class="hero-content">
-        <h1>Welcome Fatima Zohra El Bakkali / Développement Digital 🚀</h1>
+        <h1>Welcome  to Fatima Zohra El Bakkali  portefolio / Développement Digital 🚀</h1>
         <p>Build • Learn • Deploy 🚀</p>
     </div>
 </section>
