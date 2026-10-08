@@ -611,18 +611,15 @@ echo "</div>";
 
 
 
-?>
-<br>
-<br>
-<br>
-<h1 style="font-family: Arial, sans-serif;font-weight: bold;">Pour 2em annee de DevOWFS</h1>
-<?php
+
+
 echo "<div class='card'>";
 echo "<h2><i class='fas fa-store-alt'></i> Atelier 2 : Gestion de projet agile </h2>";
 echo "<div style='display:flex; flex-direction:column; gap:10px;'>";
 echo "<a href='public/Atelier-2________Gestion de projet agile.pdf' class='btn btn-secondary'>atelier2 : Gestion de projet agile</a>";
 echo "</div>";
 echo "</div>";
+
 ?>
     </div>
 </div>
